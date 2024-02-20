@@ -1,0 +1,31 @@
+h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a{
+    color:aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    text-align: center;
+    display:block;
+}
+
+h2{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: rgb(157, 157, 157);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.div1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.div2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
